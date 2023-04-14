@@ -24,12 +24,13 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+  - 📚 Information System student at Vishnu Institute Of Technology
+  
+  -  🔭 I'm currently working on <a href="#">Html</a> 
+ 
+  - 🌱  I’m always studying *JavaScript, **Html, **Css, **C, **Java, and *Python*.
 
-  - 🌱  I’m always studying *JavaScript, **TypeScript, **ReactJS, **NodeJS, **Dart, **Flutter* and *Python*.
-
-  - 💬 Ask me about *any technology*.
+  - 💬  I'm Passionate in AWS and Machine Learning
 
   - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
 
