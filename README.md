@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Imudaypamu&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Imudaypamu?style=social" alt="Followers" />
   </a>
 </p>
 
