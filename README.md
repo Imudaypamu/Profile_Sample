@@ -28,7 +28,7 @@
   
   -  🔭 I'm currently working on <a href="#">Html</a> 
  
-  - 🌱  I’m always studying *JavaScript, **Html, **Css, **C, **Java, and *Python*.
+  - 🌱  I’m always studying *JavaScript*, *Html*, *Css*, *C*, *Java*, and *Python*.
 
   - 💬  I'm Passionate in AWS and Machine Learning
 
