@@ -57,6 +57,9 @@
   ## 📚 &nbsp;Currently studying
 
   - Cyber Security
+  - AWS
+  - Machine Learning
+  - Web Technologies
 
 </div>
 
